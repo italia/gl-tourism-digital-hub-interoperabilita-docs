@@ -231,13 +231,13 @@ Offerings.
 
    Ontology and vocabulary repositories - three-year PA IT plan and
    controlled vocabularies:
-   https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie
+   https://github.com/italia/dati-semantic-assets/tree/master/Ontologie
 
    DATAtourisme data schema: https://framagit.org/datatourisme/ontology/
 
 .. [3]
     Online reference:
-   https://github.com/italia/daf-ontologie-vocabolari-controllati
+   https://github.com/italia/dati-semantic-assets
 
 .. [4]
     In this sense, it should be remembered that a concert is not a

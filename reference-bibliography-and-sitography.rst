@@ -35,7 +35,7 @@ developed according to the three year plan for IT in Public
 Administration and controlled vocabularies**
 
 Website: Github – Online Reference:
-https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie
+https://github.com/italia/dati-semantic-assets/tree/master/Ontologie
 
 **DATAtourisme data schema**
 
